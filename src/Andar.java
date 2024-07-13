@@ -1,0 +1,3 @@
+interface Andar {
+    void andar();
+}
